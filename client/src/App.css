@@ -1,3 +1,36 @@
 body {
-  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #343a40;
+  font-weight: bold;
+}
+
+h3 {
+  color: #495057;
+}
+
+.certificate-hash {
+  word-break: break-all;
+  font-family: monospace;
+  font-size: 0.9rem;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.3);
+}
+
+.alert {
+  border-radius: 8px;
+}
+
+.table th {
+  background-color: #007bff;
+  color: white;
+}
+
+.table td {
+  vertical-align: middle;
 }
