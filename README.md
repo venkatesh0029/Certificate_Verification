@@ -1,5 +1,5 @@
 # Certificate Verification System
-0000000000
+
 ## Project Overview
 
 The **Certificate Verification System** is a blockchain-based application designed to issue and verify certificates securely using Ethereum. This project leverages the immutability and transparency of blockchain technology to ensure that certificates cannot be tampered with, providing a reliable way to verify their authenticity. The system hashes certificate details (student name, course, and date) and stores the hash on the Ethereum blockchain, allowing anyone to verify the certificate's validity by checking the hash.
